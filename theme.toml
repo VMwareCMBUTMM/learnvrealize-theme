@@ -1,0 +1,13 @@
+name = "Learn vRealize Automation Site Theme"
+license = "BSD-2"
+licenselink = "https://github.com/VMwareCMBUTMM/learnvrealize-theme/blob/main/LICENSE.md"
+description = "Learn vRealize Automation Site Theme is a Hugo Theme for technical documentation based on the TechDoc theme by thingsym."
+homepage = "https://github.com/VMwareCMBUTMM/learnvrealize-theme"
+repo = "https://github.com/VMwareCMBUTMM/learnvrealize-theme"
+tags = ["Documentation", "Docs", "Responsive", "Google analytics", "Table Of Contents"]
+features = ["documentation", "menu"]
+min_version = "0.60.0"
+
+[author]
+  name = "sammcgeown"
+  homepage = "https://learnvrealizeautomation.github.io/"
