@@ -1,8 +1,6 @@
-# Hugo Theme Techdoc
+# Learn vRealize Automation Site Theme
 
-The Techdoc is a Hugo Theme for technical documentation.
-
-![The Techdoc screenshot](https://raw.githubusercontent.com/thingsym/hugo-theme-techdoc/master/images/screenshot.png)
+The Learn vRealize Automation Site Theme is based on the [Techdoc Hugo Theme](https://themes.gohugo.io/hugo-theme-techdoc/).
 
 - Hugo Themes page: [https://themes.gohugo.io/hugo-theme-techdoc/](https://themes.gohugo.io/hugo-theme-techdoc/)
 - Demo site: [https://themes.gohugo.io/theme/hugo-theme-techdoc/](https://themes.gohugo.io/theme/hugo-theme-techdoc/)
